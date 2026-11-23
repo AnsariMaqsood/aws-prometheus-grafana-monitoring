@@ -21,7 +21,7 @@ This project implements AWS-based infrastructure monitoring and centralized Linu
 | AWS EC2 | Completed |
 | Grafana installation | Completed |
 | Prometheus | Completed |
-| Node Exporter | Pending |
+| Node Exporter | Completed |
 | Loki | Pending |
 | Grafana Alloy | Pending |
 | Dashboards | Pending |
